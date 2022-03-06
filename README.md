@@ -17,7 +17,7 @@ In order to provide an accurate, fair outcome and conduct an election audit for 
 ## Resources Utilized to Complete Audit
 Tom was able to provide us with a CSV file containing the raw election results.  The dataset provided us with a large, unorganized file containing each separate vote that was casted for the candidate of choice. We utilized Python to analyze the dataset of election results in code editor, Visual Studio Code.
 
-The raw Election Results Dataset can be viewed by clicking here.
+The raw, more detailed Election Results Dataset can be viewed by clicking [here](https://github.com/nataliabench/Election-Analysis.git) under "Resources" folder.
 
 ## Election Summary and Results
 We conducted an election audit on the data for the **three candidates**: Charles Casper Stockham, Raymon Anthony Doane, and Diana DeGette. The total number of votes cast for the three candidates were 369,711.
