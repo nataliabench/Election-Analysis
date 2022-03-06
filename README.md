@@ -29,5 +29,9 @@ By simply concluding those two values from the data, we can determine **the winn
 As for our deeper analysis on the counties, Jefferson County consisted of 38,855 voters which lead to 10.5% of votes out of the total count coming from Jefferson. Denver County had 306,055 voters and 82.8% of votes out of the total count came from Denver. Lastly, Arapahoe County had 24,801 voters with a smaller statistic of only 6.7% of votes coming from them.
 
 Denver County had an overwhelming lead with the **highest voter turnout** compared to the other two Colorado counties.  This could depend on varying populations per county, access to voting stations, county diversity and much more.
+
+Below, you may view a screenshot of the text file containing the final results.
+![alt text](https://github.com/nataliabench/Election-Analysis/blob/a8d5c3a7e21d2717c73979fad94355e8c99eb265/Analysis/Election_Analysis_ResultsSC.png)
+
 ## Challenge Overview
 
