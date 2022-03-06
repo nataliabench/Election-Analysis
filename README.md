@@ -33,5 +33,5 @@ Denver County had an overwhelming lead with the **highest voter turnout** compar
 Below, you may view a screenshot of the text file containing the final results.
 ![alt text](https://github.com/nataliabench/Election-Analysis/blob/a8d5c3a7e21d2717c73979fad94355e8c99eb265/Analysis/Election_Analysis_ResultsSC.png)
 
-## Challenge Overview
-
+## Election Analysis Summary
+ The Python script we created was extremely efficient for the task given, primarily due to the dataset relating to a smaller set of data. Since our analysis focused only on Colorado and the three candidates, our script was able to perform the calculations quickly and easily.  But, if our task were to change to focus on a larger scale population, like the United States Presidential elections, we would need to refractor our code. Our original code would be used as the foundation of the refractored code in order to develop a faster producing script for larger datasets as well as allowing our script to perform other detailed functions to find more useful trends.
